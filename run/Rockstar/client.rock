@@ -1,0 +1,140 @@
+{
+  "username": "Player600",
+  "theme": "DARK",
+  "swing": "swings.rotate_360",
+  "hudElements": [
+    {
+      "name": "hud.effects",
+      "x": 114.5,
+      "y": 134.5,
+      "showing": true,
+      "settings": {
+        "hud.always_display": false,
+        "hud.effects.alert": false
+      }
+    },
+    {
+      "name": "hud.keybinds",
+      "x": 760.5,
+      "y": 74.48912,
+      "showing": true,
+      "settings": {
+        "hud.always_display": false
+      }
+    },
+    {
+      "name": "hud.targethud",
+      "x": 558.0,
+      "y": 318.98203,
+      "showing": true,
+      "settings": {
+        "hud.targethud.look": false,
+        "hud.targethud.armor": "hud.targethud.armor.number"
+      }
+    },
+    {
+      "name": "hud.dynamic_island",
+      "x": 448.50146,
+      "y": 7.0,
+      "showing": true,
+      "settings": {
+        "hud.dynamic_island.statuses": {
+          "selected": [
+            "hud.dynamic_island.statuses.alerts",
+            "hud.dynamic_island.statuses.blink",
+            "hud.dynamic_island.statuses.pvp",
+            "hud.dynamic_island.statuses.events",
+            "hud.dynamic_island.statuses.mine",
+            "hud.dynamic_island.statuses.xray",
+            "hud.dynamic_island.statuses.music",
+            "hud.dynamic_island.statuses.default"
+          ],
+          "order": [
+            "hud.dynamic_island.statuses.alerts",
+            "hud.dynamic_island.statuses.blink",
+            "hud.dynamic_island.statuses.pvp",
+            "hud.dynamic_island.statuses.events",
+            "hud.dynamic_island.statuses.mine",
+            "hud.dynamic_island.statuses.xray",
+            "hud.dynamic_island.statuses.music",
+            "hud.dynamic_island.statuses.default"
+          ]
+        }
+      }
+    },
+    {
+      "name": "hud.world",
+      "x": 0.0,
+      "y": 5.0,
+      "showing": true,
+      "settings": {
+        "elements": {
+          "selected": [
+            "coords",
+            "server",
+            "TPS"
+          ],
+          "order": [
+            "coords",
+            "server",
+            "TPS"
+          ]
+        },
+        "hud.world.compact_server": true
+      }
+    },
+    {
+      "name": "hud.player",
+      "x": 0.0,
+      "y": 24.491013,
+      "showing": true,
+      "settings": {
+        "elements": {
+          "selected": [
+            "FPS",
+            "speed"
+          ],
+          "order": [
+            "FPS",
+            "speed"
+          ]
+        },
+        "hud.player.speedY": true
+      }
+    }
+  ],
+  "friends": [],
+  "colorPickerPresets": [
+    {
+      "red": 0.0,
+      "green": 122.0,
+      "blue": 255.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 52.0,
+      "green": 199.0,
+      "blue": 89.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 255.0,
+      "green": 204.0,
+      "blue": 0.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 255.0,
+      "green": 59.0,
+      "blue": 48.0,
+      "alpha": 255.0
+    },
+    {
+      "red": 151.0,
+      "green": 71.0,
+      "blue": 255.0,
+      "alpha": 255.0
+    }
+  ],
+  "password": []
+}
